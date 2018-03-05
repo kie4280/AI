@@ -1,0 +1,2 @@
+# AI
+simple python AI
