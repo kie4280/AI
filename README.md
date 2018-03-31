@@ -1,2 +1,2 @@
 # AI
-simple python AI
+simple toy AI written in Python
